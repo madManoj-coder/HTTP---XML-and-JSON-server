@@ -1,0 +1,17 @@
+{
+  "name": "http---xml-and-json-server",
+  "version": "1.0.0",
+  "description": "working on API using XMLHttpRequest and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
